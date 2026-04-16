@@ -1,0 +1,5 @@
+.container { max-width: 600px; margin: 50px auto; font-family: sans-serif; text-align: center; }
+.hidden { display: none; }
+#error-message { color: red; margin-top: 20px; }
+.header { display: flex; justify-content: center; align-items: center; gap: 20px; }
+#meaning-content { text-align: left; background: white; padding: 20px; border-radius: 8px; }
